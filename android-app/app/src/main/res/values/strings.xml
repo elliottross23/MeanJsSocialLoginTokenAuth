@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeanJsSocialLoginApiTestApp</string>
+    <string name="facebook_app_id">1874126819491424</string>
+    <string name="google_client_id">585279719515-b90mo6l9urn65mqlc4cs5bj0nu70mgu1.apps.googleusercontent.com</string>
+</resources>

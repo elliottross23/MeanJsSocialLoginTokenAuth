@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585279719515",
+    "project_id": "meanjssocialloginapitestapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585279719515:android:37b8af8c7255434e",
+        "android_client_info": {
+          "package_name": "elliottross.com.meanjssocialloginapitestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585279719515-b90mo6l9urn65mqlc4cs5bj0nu70mgu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elliottross.com.meanjssocialloginapitestapp",
+            "certificate_hash": "F3E82161A8F9E4E8357C995C65958CA06AC5FD20"
+          }
+        },
+        {
+          "client_id": "585279719515-i7iumk14f4jnoeonfj0dlkvt7levmece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoc73_d9LMdZTprHjKxus6BoYtZkgUB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
